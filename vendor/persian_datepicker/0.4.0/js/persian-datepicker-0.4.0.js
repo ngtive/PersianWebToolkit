@@ -66,7 +66,7 @@ var ClassConfig = {
 
     /**
      * @memberOf ClassDatepicker.ClassConfig
-     * @description the date format, combination of d, dd, m, mm, yy, yyy.
+     * @description the date format, combination of d, dd, m, mm, yy, yyyy.
      * {@link http://babakhani.github.io/PersianWebToolkit/doc/persiandate/0.1.8/#/displaying/format/}
      * @desc format
      * @type {boolean}
@@ -118,7 +118,7 @@ var ClassConfig = {
 
     /**
      * @memberOf ClassDatepicker.ClassConfig
-     * @description the date format, combination of d, dd, m, mm, yy, yyy.
+     * @description the date format, combination of d, dd, m, mm, yy, yyyy.
      * {@link http://babakhani.github.io/PersianWebToolkit/doc/persiandate/0.1.8/#/displaying/format/}
      * @desc altField
      * @type {string}

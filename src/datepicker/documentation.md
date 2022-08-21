@@ -95,7 +95,7 @@ Acceptable value : day,month,year
 <a name="Config.format"></a>
 
 ### Config.format : <code>boolean</code>
-the date format, combination of d, dd, m, mm, yy, yyy.
+the date format, combination of d, dd, m, mm, yy, yyyy.
 [http://babakhani.github.io/PersianWebToolkit/doc/persiandate/0.1.8/#/displaying/format/](http://babakhani.github.io/PersianWebToolkit/doc/persiandate/0.1.8/#/displaying/format/)
 
 **Kind**: static property of <code>[Config](#Config)</code>  
@@ -110,7 +110,7 @@ An input element that is to be updated with the selected date from the datepicke
 <a name="Config.altFormat"></a>
 
 ### Config.altFormat : <code>string</code>
-the date format, combination of d, dd, m, mm, yy, yyy.
+the date format, combination of d, dd, m, mm, yy, yyyy.
 [http://babakhani.github.io/PersianWebToolkit/doc/persiandate/0.1.8/#/displaying/format/](http://babakhani.github.io/PersianWebToolkit/doc/persiandate/0.1.8/#/displaying/format/)
 
 **Kind**: static property of <code>[Config](#Config)</code>  

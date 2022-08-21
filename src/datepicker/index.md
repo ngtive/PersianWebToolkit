@@ -96,10 +96,10 @@ bower install persian-datepicker
 | inline                         | boolean          | false                                           | If set true datepicker render inline |
 | persianDigit (DEPRECATED from 1.0.0)      | boolean          | true                               | If set true all digit shows as persian digit |
 | viewMode                       | string           | 'day'                                           | Accept 'day', 'month', 'year' |
-| format                         | string           | 'LLLL'                                          | The date format, combination of d, dd, m, mm, yy, yyy. [format document](http://babakhani.github.io/PersianWebToolkit/doc/persian-date/#format) |
+| format                         | string           | 'LLLL'                                          | The date format, combination of d, dd, m, mm, yy, yyyy. [format document](http://babakhani.github.io/PersianWebToolkit/doc/persian-date/#format) |
 | formatter                      | function         | function(unixDate){return unixDate}             | Main Input value formatter function |
 | altField                       | string           | null                                            | An input element that is to be updated with the selected date from the datepicker. Use the altFormat option to change the format of the date within this field. Leave as blank for no alternate field. acceptable value: : '#elementId','.element-class' |
-| altFormat                      | string           | 'unix'                                          | The date format, combination of d, dd, m, mm, yy, yyy. [format document](http://babakhani.github.io/PersianWebToolkit/doc/persian-date/#format) |
+| altFormat                      | string           | 'unix'                                          | The date format, combination of d, dd, m, mm, yy, yyyy. [format document](http://babakhani.github.io/PersianWebToolkit/doc/persian-date/#format) |
 | altFieldFormatter              | function         | function(unixDate){return unixDate}             | Format value of alt field input input |
 | minDate                        | Unix Offset      | null                                            | Set min date on datepicker, prevent user select date before given unix time |
 | maxDate                        | Unix Offset      | null                                            | Set max date on datepicker, prevent user select date after given unix time |

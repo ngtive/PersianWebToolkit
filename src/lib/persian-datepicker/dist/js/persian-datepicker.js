@@ -584,7 +584,7 @@ var Config = {
   'viewMode': 'day',
 
   /**
-   * @description the date format, combination of d, dd, m, mm, yy, yyy.
+   * @description the date format, combination of d, dd, m, mm, yy, yyyy.
    * @link http://babakhani.github.io/PersianWebToolkit/doc/persian-date/#format
    * @type {boolean}
    * @default 'LLLL'
@@ -620,7 +620,7 @@ var Config = {
   'altField': false,
 
   /**
-   * @description the date format, combination of d, dd, m, mm, yy, yyy.
+   * @description the date format, combination of d, dd, m, mm, yy, yyyy.
    * @link http://babakhani.github.io/PersianWebToolkit/doc/persian-date/#format
    * @type {string}
    * @default 'unix'

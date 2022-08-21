@@ -259,7 +259,7 @@ default view mode, Acceptable value : day,month,year
 <a name="Config.format"></a>
 
 ## Config.format : <code>boolean</code>
-the date format, combination of d, dd, m, mm, yy, yyy.
+the date format, combination of d, dd, m, mm, yy, yyyy.
 
 **Kind**: static property of [<code>Config</code>](#Config)  
 **Default**: <code>&#x27;LLLL&#x27;</code>  
@@ -280,7 +280,7 @@ altField: '.input-alt-field'
 <a name="Config.altFormat"></a>
 
 ## Config.altFormat : <code>string</code>
-the date format, combination of d, dd, m, mm, yy, yyy.
+the date format, combination of d, dd, m, mm, yy, yyyy.
 
 **Kind**: static property of [<code>Config</code>](#Config)  
 **Default**: <code>&quot;&#x27;unix&#x27;&quot;</code>  
